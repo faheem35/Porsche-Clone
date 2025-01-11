@@ -1,0 +1,23 @@
+.discoverCard-1 {
+          background-image: url('https://images-porsche.imgix.net/-/media/A34FC27283254145AF6FF989F5F63CAA_BFF7810B44D64EF5BFC159C02FE70647_1-1_E-Performance_1200x1200?iar=0&w=415&ar=1%3A1&q=85&auto=format');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+
+        .discoverCard-2 {
+          background-image: url('https://images-porsche.imgix.net/-/media/A0F1C1837DF64CDC984B49CE69CBA3D4__TE24T4COX0002_1-1_desktop?iar=0&w=415&ar=1%3A1&q=85&auto=format');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+
+
+        .discoverCard-3 {
+          background-image: url('https://images-porsche.imgix.net/-/media/314E18C49CB949188EC67DB78C113245_11D32ED83FBB4C0DA37DE363C440A66D_007-teaser-3pics_1-1_Exclusive-Manufaktur-EX18MODID0024_mobile_1200x1200?iar=0&w=415&ar=1%3A1&q=85&auto=format');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+
+        

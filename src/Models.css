@@ -1,0 +1,65 @@
+.custom-card-1 {
+          background-image: url('https://images-porsche.imgix.net/-/media/EB443B2127BA48C686A09425549EB830_9FF2CC5F7BE2480AA61524547633AD40_01---Macan-Electric?h=2880&iar=0&w=600&ar=4%3A3&q=80&crop=faces%2Centropy%2Cedges&auto=format');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+        
+
+        .custom-card-2 {
+          background-image: url('https://images-porsche.imgix.net/-/media/DBFCF2FAA12140CC93B9D9AE42170A5F_5434A63E605B411381604EADE9928D2B_KW02---Season-2025?h=2880&iar=0&w=600&ar=4%3A3&q=80&crop=faces%2Centropy%2Cedges&auto=format');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+
+        .custom-card-3 {
+          background-image: url('https://images-porsche.imgix.net/-/media/B39466E1AAA143F790FAE9C717F5AD31_CA73EA539B4345DEADB8243D8E31A2F3_03---J1?h=2880&iar=0&w=600&ar=4%3A3&q=80&crop=faces%2Centropy%2Cedges&auto=format');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+
+        .modelCard-1 {
+          background-image: url('https://images-porsche.imgix.net/-/media/BCE0DDD35E7E4D9CA16F7DA7480B8E92_76B645B61F5244E08438DFDD4F360BF6_BX24I3HOX0040_desktop?iar=0&w=640&ar=3%3A4&q=85&auto=format');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+
+        .modelCard-2 {
+          background-image: url('https://images-porsche.imgix.net/-/media/DE9B7F8D1C6948F1AF6B4114B75C3F3A_21F9585F38A6419A9C461B4EBFFB28AD_Nevada---Desktop?iar=0&w=640&ar=3%3A4&q=85&auto=format');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+
+
+        .modelCard-3 {
+          background-image: url('https://images-porsche.imgix.net/-/media/BA984301AA8F495AB2E08123AC9D55DE_2E319514861C42E28097E5C095DE1FD2_NEW-Taycan---Desktop?iar=0&w=640&ar=3%3A4&q=85&auto=format');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+
+        .modelCard-4 {
+          background-image: url('https://images-porsche.imgix.net/-/media/AD24345646AA45B7B04D01140FD13E64_86464EA1875F41BA87751D7BB8A9F8F7_NEW-Panamera---Desktop?iar=0&w=640&ar=3%3A4&q=85&auto=format');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+
+
+        .modelCard-5 {
+          background-image: url('https://images-porsche.imgix.net/-/media/D9863281BEC14473AE2EAD15A724142B_E84A5DFE8F4347BABEEEF9C28F9D4F40_Berlin---Desktop?iar=0&w=640&ar=3%3A4&q=85&auto=format');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+
+        .modelCard-6 {
+          background-image: url('https://images-porsche.imgix.net/-/media/657C1C9232C0426583987BC10E7EAE09_B3896980D34C432290085ED61B6F477F_Cayenne---Desktop?iar=0&w=640&ar=3%3A4&q=85&auto=format');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
