@@ -1,5 +1,5 @@
 import React from 'react';
-import '../LandingPage.css'; // Import the CSS file for custom styles
+import '../LandingPage.css'; 
 import { Container, Navbar, Nav, Row, Col, Button, Stack } from 'react-bootstrap';
 
 const LandingPage = () => {
